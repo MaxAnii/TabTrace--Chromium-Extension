@@ -1,0 +1,8 @@
+{
+  "title": "TabTrace (Chromium-Extension)",
+  "description": "Chromium-based browsers extension to access your history without leaving your active browser tab and allows you to delete the history of a specific site and you can see the top 10 most visited site in 3 months.",
+  "banner": "https://projectbanners.s3.eu-north-1.amazonaws.com/Screenshot+2024-08-27+105953.png",
+  "github": "https://github.com/MaxAnii/TabTrace--Chromium-Extension",
+  "projectNumber": 3,
+  "techStack": "React JS, Chrome API."
+}
